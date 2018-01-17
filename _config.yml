@@ -36,3 +36,7 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# Custom variables
+owner : "gozer"
+year : "2018"
